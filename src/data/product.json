@@ -1,0 +1,415 @@
+[
+  {
+    "id": 1,
+    "name": "Slim Fit Shirt",
+    "price": 899,
+    "image": "/assets/shirt-1.avif",
+    "category": "Shirts"
+  },
+  {
+    "id": 2,
+    "name": "Checked Shirt",
+    "price": 999,
+    "image": "/assets/shirt-2.jpeg",
+    "category": "Shirts"
+  },
+  {
+    "id": 3,
+    "name": "Cotton Shirt",
+    "price": 1099,
+    "image": "/assets/shirt-3.webp",
+    "category": "Shirts"
+  },
+  {
+    "id": 4,
+    "name": "Casual Shirt",
+    "price": 1099,
+    "image": "/assets/shirt-4.jpeg",
+    "category": "Shirts"
+  },
+  {
+    "id": 5,
+    "name": "Printed Shirt",
+    "price": 1099,
+    "image": "/assets/shirt-5.jpg",
+    "category": "Shirts"
+  },
+  {
+    "id": 6,
+    "name": "Denim Shirt",
+    "price": 1099,
+    "image": "/assets/shirt-6.jpg",
+    "category": "Shirts"
+  },
+  {
+    "id": 7,
+    "name": "Linen Shirt",
+    "price": 1099,
+    "image": "/assets/shirt-7.jpg",
+    "category": "Shirts"
+  },
+  {
+    "id": 8,
+    "name": "Oversized Shirt",
+    "price": 1099,
+    "image": "/assets/shirt-8.jpg",
+    "category": "Shirts"
+  },
+  {
+    "id": 9,
+    "name": "Half Sleeve Shirt",
+    "price": 1099,
+    "image": "/assets/shirt-9.avif",
+    "category": "Shirts"
+  },
+  {
+    "id": 10,
+    "name": "Slim Fit Jeans",
+    "price": 1299,
+    "image": "/assets/pant-1.jpg",
+    "category": "Pants"
+  },
+  {
+    "id": 11,
+    "name": "Cotton Chinos",
+    "price": 999,
+    "image": "/assets/pant-2.jpeg",
+    "category": "Pants"
+  },
+  {
+    "id": 12,
+    "name": "Track Pants",
+    "price": 999,
+    "image": "/assets/pant-3.png",
+    "category": "Pants"
+  },
+  {
+    "id": 13,
+    "name": "Cargo Pants",
+    "price": 999,
+    "image": "/assets/pant-4.jpeg",
+    "category": "Pants"
+  },
+  {
+    "id": 14,
+    "name": "Formal Trouser",
+    "price": 999,
+    "image": "/assets/pant-5.jpg",
+    "category": "Pants"
+  },
+  {
+    "id": 15,
+    "name": "Joggers",
+    "price": 999,
+    "image": "/assets/pant-6.jpeg",
+    "category": "Pants"
+  },
+  {
+    "id": 16,
+    "name": "Denim Pants",
+    "price": 999,
+    "image": "assets/pant-7.jpeg",
+    "category": "Pants"
+  },
+  {
+    "id": 17,
+    "name": "Slim Fit Pants",
+    "price": 999,
+    "image": "assets/pant-8.png",
+    "category": "Pants"
+  },
+  {
+    "id": 18,
+    "name": "Classic Watch",
+    "price": 1599,
+    "image": "assets/watch-1.webp",
+    "category": "Watches"
+  },
+  {
+    "id": 19,
+    "name": "Leather Strap Watch",
+    "price": 1799,
+    "image": "assets/watch-2.jpg",
+    "category": "Watches"
+  },
+  {
+    "id": 20,
+    "name": "Smart Watch",
+    "price": 1599,
+    "image": "/assets/watch-3.webp",
+    "category": "Watches"
+  },
+  {
+    "id": 21,
+    "name": "Digital Watch",
+    "price": 1599,
+    "image": "/assets/watch-4.jpg",
+    "category": "Watches"
+  },
+  {
+    "id": 22,
+    "name": "Chronograph Watch",
+    "price": 1599,
+    "image": "/assets/watch-5.jpg",
+    "category": "Watches"
+  },
+  {
+    "id": 23,
+    "name": "Gold Watch",
+    "price": 1599,
+    "image": "/assets/watch-6.jpg",
+    "category": "Watches"
+  },
+  {
+    "id": 24,
+    "name": "Stainless Watch",
+    "price": 1599,
+    "image": "/assets/watch-7.jpeg",
+    "category": "Watches"
+  },
+  {
+    "id": 25,
+    "name": "Floral Dress",
+    "price": 1599,
+    "image": "/assets/gdress-1.jpeg",
+    "category": "Dresses"
+  },
+  {
+    "id": 26,
+    "name": "Maxi Dress",
+    "price": 1599,
+    "image": "/assets/gdress-2.jpg",
+    "category": "Dresses"
+  },
+  {
+    "id": 27,
+    "name": "A-line Dress",
+    "price": 1599,
+    "image": "/assets/gdress-3.webp",
+    "category": "Dresses"
+  },
+  {
+    "id": 28,
+    "name": "Bodycon Dress",
+    "price": 1599,
+    "image": "/assets/gdress-4.jpg",
+    "category": "Dresses"
+  },
+  {
+    "id": 29,
+    "name": "Party Dress",
+    "price": 1599,
+    "image": "/assets/gdress-5.webp",
+    "category": "Dresses"
+  },
+   {
+    "id": 29,
+    "name": "Party Dress",
+    "price": 1599,
+    "image": "/assets/gdress-6.jpg",
+    "category": "Dresses"
+  }, 
+  {
+    "id": 30,
+    "name": "Casual Dress",
+    "price": 1599,
+    "image": "/assets/gdress-7.avif",
+    "category": "Dresses"
+  },
+   {
+    "id": 31,
+    "name": "Midi Dress",
+    "price": 1599,
+    "image": "/assets/gdress-8.jpg",
+    "category": "Dresses"
+  },
+   {
+    "id": 32,
+    "name": "Evening Gown",
+    "price": 1599,
+    "image": "/assets/gdress-9.jpeg",
+    "category": "Dresses"
+  },
+   {
+    "id": 33,
+    "name": "Batwing Top",
+    "price": 1599,
+    "image": "/assets/top-1.jpg",
+    "category": "Tops"
+  },
+  {
+    "id": 34,
+    "name": "Cape Top",
+    "price": 1599,
+    "image": "/assets/top-2.jpg",
+    "category": "Tops"
+  },
+  {
+    "id": 35,
+    "name": "Cardigan Top",
+    "price": 1599,
+    "image": "/assets/top-3.jpg",
+    "category": "Tops"
+  },
+  {
+    "id": 36,
+    "name": "Kaftan Top",
+    "price": 1599,
+    "image": "/assets/top-4.avif",
+    "category": "Tops"
+  },
+  {
+    "id": 37,
+    "name": "Peasant Top",
+    "price": 1599,
+    "image": "/assets/top-5.jpg",
+    "category": "Tops"
+  },
+  {
+    "id": 38,
+    "name": "Flared Top",
+    "price": 1599,
+    "image": "/assets/top-6.jpeg",
+    "category": "Tops"
+  },
+  {
+    "id": 39,
+    "name": "Formal Top",
+    "price": 1599,
+    "image": "/assets/top-7.jpeg",
+    "category": "Tops"
+  },
+  {
+    "id": 40,
+    "name": "Poncho Top",
+    "price": 1599,
+    "image": "/assets/top-8.jpeg",
+    "category": "Tops"
+  },
+  {
+    "id": 41,
+    "name": "Casual Top",
+    "price": 1599,
+    "image": "/assets/top-9.avif",
+    "category": "Tops"
+  },
+  {
+    "id": 42,
+    "name": "tote Bag",
+    "price": 1599,
+    "image": "/assets/bag-1.webp",
+    "category": "Bags"
+  },
+  {
+    "id": 43,
+    "name": "Sling Bag",
+    "price": 1599,
+    "image": "/assets/bag-2.jpeg",
+    "category": "Bags"
+  },
+  {
+    "id": 44,
+    "name": "HandBag",
+    "price": 1599,
+    "image": "/assets/bag-3.webp",
+    "category": "Bags"
+  },
+  {
+    "id": 45,
+    "name": "Clutch Bag",
+    "price": 1599,
+    "image": "/assets/bag-4.webp",
+    "category": "Bags"
+  },
+  {
+    "id": 46,
+    "name": "Crossbody Bag",
+    "price": 1599,
+    "image": "/assets/bag-5.webp",
+    "category": "Bags"
+  },
+  {
+    "id": 47,
+    "name": "Wallet Bag",
+    "price": 1599,
+    "image": "/assets/bag-6.jpg",
+    "category": "Bags"
+  },
+  {
+    "id": 48,
+    "name": "Hobo Bag",
+    "price": 1599,
+    "image": "/assets/bag-7.webp",
+    "category": "Bags"
+  },
+  {
+    "id": 49,
+    "name": "shoulder Bag",
+    "price": 1599,
+    "image": "/assets/bag-8.jpeg",
+    "category": "Bags"
+  },
+  {
+    "id": 50,
+    "name": "Bucket Bag",
+    "price": 1599,
+    "image": "/assets/bag-9.avif",
+    "category": "Bags"
+  },
+  {
+    "id": 50,
+    "name": "Running Shoes",
+    "price": 1599,
+    "image": "/assets/shoe-1.jpeg",
+    "category": "Shoes"
+  },
+  {
+    "id": 51,
+    "name": "Sneakers",
+    "price": 1599,
+    "image": "/assets/shoe-2.jpg",
+    "category": "Shoes"
+  },
+  {
+    "id": 52,
+    "name": "Loafers",
+    "price": 1599,
+    "image": "/assets/shoe-3.jpg",
+    "category": "Shoes"
+  },
+  {
+    "id": 53,
+    "name": "Boots",
+    "price": 1599,
+    "image": "/assets/shoe-4.webp",
+    "category": "Shoes"
+  },
+  {
+    "id": 54,
+    "name": "Modal Shoe",
+    "price": 1599,
+    "image": "/assets/shoe-5.jpeg",
+    "category": "Shoes"
+  },
+  {
+    "id": 55,
+    "name": "Slip-ons",
+    "price": 1599,
+    "image": "/assets/shoe-6.jpg",
+    "category": "Shoes"
+  },
+  {
+    "id": 56,
+    "name": "Canva Shoes",
+    "price": 1599,
+    "image": "/assets/shoe-7.jpg",
+    "category": "Shoes"
+  },
+  {
+    "id": 57,
+    "name": "Formal Shoes",
+    "price": 1599,
+    "image": "/assets/shoe-8.webp",
+    "category": "Shoes"
+  }
+]

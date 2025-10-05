@@ -1,0 +1,102 @@
+.hero-banner {
+  position: relative;
+  display: flex;
+  align-items: center;
+  height: 90vh;
+  width: 100%;
+  overflow: hidden; 
+  background-size: cover;
+background-position: top center;
+
+}
+
+.banner-img {
+  width: 100%;
+  height: 90vh;
+  object-fit: cover;
+  object-position: top center;
+   background-size: cover;
+  background-position: top center;
+  background-repeat: no-repeat ;
+  position: relative;
+  display: flex;
+  align-items: center;
+
+
+  transition: transform 1.5s ease, opacity 1.5s ease;
+}
+
+.carousel-item.active .banner-img {
+  transform: scale(1.1); /* Slide to normal position */
+  opacity: 1;
+}
+
+
+.overlay-text.left {
+  left: 7%;
+  text-align: left;
+}
+
+.overlay-text.right {
+  right: 7%;
+  text-align: right;
+}
+/* Text common style */
+.overlay-text {
+  position: absolute;
+  top: 30%;
+  color: #fff;
+  text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.6);
+  max-width: 600px;
+  opacity: 0;
+  transform: translateY(30px);   
+  transition: transform 1s ease, opacity 1s ease;
+}
+
+.carousel-item.active .overlay-text {
+  transform: translateY(0);  
+   opacity: 1;
+}
+.overlay-text h2{
+  font-size: 45px;
+  margin-bottom: 25px;
+  opacity: 0;
+  transform: translateY(30px);
+  transition: transform 0.8s ease, opacity 0.8s ease;
+}
+.overlay-text p {
+  font-size: 30px;
+  margin-top: 15px;
+  opacity: 0;
+  transform: translateY(30px);
+  transition: transform 0.8s ease, opacity 0.8s ease;
+}
+
+/* animate h2 first */
+.carousel-item.active .overlay-text h2 {
+  opacity: 1;
+  transform: translateY(0);
+  transition-delay: 0.2s;
+}
+
+/* then p1 */
+.carousel-item.active .overlay-text p:nth-child(2) {
+  opacity: 1;
+  transform: translateY(0);
+  transition-delay: 0.4s;
+}
+
+/* then p2 */
+.carousel-item.active .overlay-text p:nth-child(3) {
+  opacity: 1;
+  transform: translateY(0);
+  transition-delay: 0.6s;
+}
+
+/* then p3 */
+.carousel-item.active .overlay-text p:nth-child(4) {
+  opacity: 1;
+  transform: translateY(0);
+  transition-delay: 0.8s;
+}
+
