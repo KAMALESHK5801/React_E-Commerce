@@ -1,7 +1,7 @@
-import React, { useState } from 'react'
+import React from 'react'
 
-import about1 from '../assets/about-2.jpg';
-import about2 from '../assets/about-3.jpg';
+import about1 from '../assets1/about-2.jpg';
+import about2 from '../assets1/about-3.jpg';
 
 
 const About = () => {

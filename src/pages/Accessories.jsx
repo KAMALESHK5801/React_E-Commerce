@@ -5,7 +5,7 @@ import { FaHeart, FaShoppingCart } from "react-icons/fa";
 import { ShopContext } from "../context/ShopContext";
 import products from "../data/product.json"; 
 
-// ================== REUSABLE COMPONENT ==================
+
 const ProductSection = ({ title, items, addToCart, addToWishlist }) => (
   <>
     <h3 className="fw-bold my-4 anime">{title}</h3>

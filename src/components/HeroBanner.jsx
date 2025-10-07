@@ -1,9 +1,9 @@
 import React from "react";
 import { Carousel, Container } from "react-bootstrap";
 import "./HeroBanner.css";
-import home1 from "../assets/home-1.jpg";
-import home2 from "../assets/home-2.jpg";
-import home3 from "../assets/home-3.jpg";
+import home1 from "../assets1/home-1.jpg";
+import home2 from "../assets1/home-2.jpg";
+import home3 from "../assets1/home-3.jpg";
 
 const HeroBanner = () => {
   return (
