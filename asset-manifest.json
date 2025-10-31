@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/React_E-Commerce/static/css/main.1cf5803b.css",
+    "main.js": "/React_E-Commerce/static/js/main.63a41cde.js",
+    "static/js/453.a248e7f6.chunk.js": "/React_E-Commerce/static/js/453.a248e7f6.chunk.js",
+    "static/media/home-1.jpg": "/React_E-Commerce/static/media/home-1.c121117ba1d35286c2cd.jpg",
+    "static/media/home-2.jpg": "/React_E-Commerce/static/media/home-2.ac9344d7a690780394e8.jpg",
+    "static/media/home-3.jpg": "/React_E-Commerce/static/media/home-3.8d861e6cddd9dee1c78d.jpg",
+    "static/media/about-1.jpg": "/React_E-Commerce/static/media/about-1.371629f3b8785ef5aa85.jpg",
+    "static/media/about-3.jpg": "/React_E-Commerce/static/media/about-3.9e03143de1b3d5fb39ab.jpg",
+    "static/media/about-2.jpg": "/React_E-Commerce/static/media/about-2.f27def161c040be3002f.jpg",
+    "index.html": "/React_E-Commerce/index.html",
+    "main.1cf5803b.css.map": "/React_E-Commerce/static/css/main.1cf5803b.css.map",
+    "main.63a41cde.js.map": "/React_E-Commerce/static/js/main.63a41cde.js.map",
+    "453.a248e7f6.chunk.js.map": "/React_E-Commerce/static/js/453.a248e7f6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1cf5803b.css",
+    "static/js/main.63a41cde.js"
+  ]
+}
